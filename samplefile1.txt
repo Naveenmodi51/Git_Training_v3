@@ -1,3 +1,4 @@
 this is sample file 1
 
 add some modifications
+this is comparision lecture

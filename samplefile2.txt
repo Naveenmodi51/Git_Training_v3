@@ -1,3 +1,4 @@
 this is sample file 1
 
 git reset commit 2
+this is comparision lecture change in file 2
