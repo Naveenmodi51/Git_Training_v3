@@ -1,4 +1,7 @@
 this is sample file 1
+<<<<<<< HEAD
 
 add some modifications
 this is comparision lecture
+=======
+>>>>>>> a60491a1acb0de44bc19afb03c9eceff7066e407
