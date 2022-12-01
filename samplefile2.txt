@@ -1,4 +1,4 @@
-this is sample file 1
+this is sample file 2
 <<<<<<< HEAD
 
 git reset commit 2
